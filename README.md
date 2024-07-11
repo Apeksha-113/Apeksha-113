@@ -9,15 +9,12 @@ I am an **Electrical Engineer** with a passion for becoming an energy analyst. I
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/apeksha-ghimire-2b30b51a1/)
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** C++, Python
 - **Software & Tools:** Matlab, PVsyst, Autocad, Proteus, Arduino, Keras, Git
+- - **Programming Languages:** C++, Python
 
 ## 🌱 Interests
 - **Renewable Energy:** Exploring sustainable energy sources and their integration into the grid.
 - **Grid Integration:** Developing efficient systems for integrating renewable energy into existing power grids.
-
-## 📈 Achievements
-- **Electrical Engineer:** Utilizing my skills in various tools and technologies to drive forward-thinking energy solutions.
 
 ## 📫 Let's Connect
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
