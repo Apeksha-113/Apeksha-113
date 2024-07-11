@@ -1,4 +1,4 @@
-$$# Hello, I'm Apeksha Ghimire 👋$$
+# Hello, I'm Apeksha Ghimire 👋
 
 I am an **Electrical Engineer** with a passion for becoming an energy analyst. I am deeply interested in renewable energy and grid integration, always looking for innovative solutions to make the world a more sustainable place.
 
