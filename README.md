@@ -1,3 +1,4 @@
+![gitp](https://github.com/Apeksha-113/Apeksha-113/assets/78971036/0f4309ac-06f6-4495-8db7-95b553439e01)
 # Hello, I'm Apeksha Ghimire 👋
 
 I am an **Electrical Engineer** with a passion for becoming an energy analyst. I am deeply interested in renewable energy and grid integration, always looking for innovative solutions to make the world a more sustainable place.
