@@ -1,5 +1,3 @@
-![Header](https://github.com/Apeksha-113/Apeksha-113/raw/main/header.png)
-
 # Hello, I'm Apeksha Ghimire 👋
 
 I am an **Electrical Engineer** with a passion for becoming an energy analyst. I am deeply interested in renewable energy and grid integration, always looking for innovative solutions to make the world a more sustainable place.
@@ -16,9 +14,10 @@ I am an **Electrical Engineer** with a passion for becoming an energy analyst. I
 - **Renewable Energy:** Exploring sustainable energy sources and their integration into the grid.
 - **Grid Integration:** Developing efficient systems for integrating renewable energy into existing power grids.
 
-## 📫 Let's Connect
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+## 📊 GitHub Contributions
+![Apeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apeksha-113&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apeksha-113&theme=radical)
+
 
 ---
 
-Thank you for visiting my profile!
