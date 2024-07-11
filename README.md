@@ -9,7 +9,7 @@ I am an **Electrical Engineer** with a passion for becoming an energy analyst. I
 
 ## 🔧 Technologies & Tools
 - **Software & Tools:** Matlab, PVsyst, Autocad, Proteus, Arduino, Keras, Git
-- - **Programming Languages:** C++, Python
+- **Programming Languages:** C++, Python
 
 ## 🌱 Interests
 - **Renewable Energy:** Exploring sustainable energy sources and their integration into the grid.
