@@ -12,8 +12,8 @@ I am an **Electrical Engineer**. I am deeply interested in **renewable energy an
 - **Programming Languages:** C++, Python
 
 ## 🌱 Interests
-- **Renewable Energy:** Exploring sustainable energy sources and their integration into the grid.
-- **Grid Integration:** Developing efficient systems for integrating renewable energy into existing power grids.
+- **Renewable Energy:** 
+- **Grid Integration:** 
 
 ## 📊 GitHub Contributions
 ![Apeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apeksha-113&show_icons=true&theme=radical)
