@@ -3,7 +3,7 @@
 
 # Hello, I'm Apeksha Ghimire 👋
 
-I am an **Electrical Engineer**. I am deeply interested in **renewable energy and grid integration**, always looking for innovative solutions to make the world a more sustainable place.
+I am an **Electrical Engineer**, always looking for innovative solutions to make the world a more sustainable place.
 
 ## 💬 About Me
 - 📧 You can reach me at: [ghimireapeksha13@gmail.com](mailto:ghimireapeksha13@gmail.com)
@@ -14,8 +14,9 @@ I am an **Electrical Engineer**. I am deeply interested in **renewable energy an
 - **Programming Languages:** C++, Python
 
 ## 🌱 Interests
-- **Renewable Energy:** 
-- **Grid Integration:** 
+- **Renewable Energy** 
+- **Grid Integration**
+- **Energy Policy and Justice**
 
 ## 📊 GitHub Contributions
 ![Apeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apeksha-113&show_icons=true&theme=radical)
